@@ -1,4 +1,6 @@
-{% comment %}<!--
+{% comment %}
+
+<!--
 The categories_list include is a listing helper for categories.
 Usage:
   1) assign the 'categories_list' variable to a valid array of tags.

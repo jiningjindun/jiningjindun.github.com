@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: BLOG
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+QQ    ：   1095132907
+
+e_mail:    1095132907@qq.com
+
+供学习使用，如果有神马问题，可以联系QQ  24小时在线
+
+<!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
@@ -41,6 +45,6 @@ Here's a sample "posts list".
 ## To-Do
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+We need to clean up the themes, make theme usage guides with theme-specific markup examples. -->
 
 
